@@ -4,6 +4,8 @@
 
 <p align="left">Interessado em Desenvolvimento Back-end, Inovação e Machine Learning.
 
+Atualmente graduando em Engenharia de Software pela Universidade Federal do Cariri (UFCA)
+
 Desenvolvedor júnior com foco em Python, buscando ativamente uma primeira oportunidade para aplicar meu conhecimento em um ambiente de mercado. 
 
 Tenho habilidades em Git para controle de versionamento de código com o ambiente de desenvolvimento do VS Code.

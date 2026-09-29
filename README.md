@@ -1,42 +1,48 @@
-<h1 align="left">Hello, I'm Rayan Oliveira</h1>
+<h1 align="left">Hello, I'm Rayan Oliveira 👋</h1>
 
-###
+<p align="left">
+  Software Engineering student at the <strong>Federal University of Cariri (UFCA)</strong>,
+  interested in back-end development, IoT, and machine learning.<br><br>
 
-<p align="left">Interested in Back-end Development, Innovation, and Machine Learning.
+  Currently a scholarship fellow at <strong>FIT — Instituto de Tecnologia</strong>,
+  working with embedded systems, computer vision, and Edge AI.
+  I also participate in undergraduate research on <strong>AI/ML-based network slicing
+  in Open RAN</strong> through PIBICI 2026–2027.<br><br>
 
-Currently pursuing a degree in Software Engineering at the Federal University of Cariri (UFCA).
-
-Junior Developer at <strong>Calang.io Junior Enterprise</strong>, working with the Spring ecosystem (Spring Boot & Data JPA). My primary focus is Java, alongside daily Python studies for my university coursework.
-
-Experienced with Git for version control, using both <strong>IntelliJ IDEA</strong> and <strong>VS Code</strong> as my development environments.
+  Previously a volunteer back-end developer at <strong>Calang.io Junior Enterprise</strong>,
+  developing Java applications with Spring Boot, Spring Data, and PostgreSQL.
 </p>
-
-###
 
 <h2 align="left">About Me</h2>
 
-###
+<p align="left">
+  🎓 Studying Software Engineering at UFCA<br>
+  💻 Building back-end applications with Java/Spring and Python/FastAPI<br>
+  🔬 Exploring AI/ML for radio resource management in Open RAN<br>
+  🤖 Connecting hardware, computer vision, and software through IoT projects<br>
+  🌱 Interested in reliable systems and practical applications of machine learning
+</p>
 
-<p align="left">✨ In the field since 2024<br>📚 Currently studying Java, JavaScript, and Python!<br>💼 Developer at Calang.io</p>
-
-###
-
-<h2 align="left">Main Languages & Tools</h2>
-
-###
+<h2 align="left">Main Languages &amp; Tools</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
 </div>
-
-###
